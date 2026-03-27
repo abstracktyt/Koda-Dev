@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/google/material-design-icons/master/png/action/all_inclusive/black/xxhdpi.png" width="100" height="100" alt="Koda Logo">
+  <img src="https://i.ibb.co/MxxLgnF1/Koda-Avatart-Bot-White.png" width="100" height="100" alt="Koda Logo">
 
   # Koda IT-Marketplace
 
