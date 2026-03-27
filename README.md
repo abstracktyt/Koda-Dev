@@ -58,6 +58,9 @@ Koda представляет собой закрытую площадку (IT-M
 | **🌐 Платформа** | [kodadev.online](https://kodadev.online) |
 | **💬 Поддержка** | [support@kodadev.online](mailto:support@kodadev.online) |
 | **👾 Discord Bot** | Интегрирован (ID: `699543446486253568`) |
+| **📜 Соглашение** | [Terms of Service](./TERMS_OF_SERVICE.md) |
+| **⚖️ Правила** | [Project Rules](./RULES.md) |
+| **📄 Лицензия** | [Proprietary License](./LICENSE.md) |
 
 ---
 
